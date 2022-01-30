@@ -8,8 +8,9 @@ It is advised to run notebooks in the order mentioned below:
 4. Autoencoders.ipynb
 5. Clustering.ipynb
 
-Synthetic_data.ipynb - generates simple synthetic dataset. Re-run the whole pipeline (1-5) for a synthetic dataset results.
-Visualization_separate.ipynb - visualizes continuous specificity of the data points distribution.
-Visualization_separate.ipynb - demonstrates batch effect for merged AGP and HMP datasets.
+Synthetic_data.ipynb - generates simple synthetic dataset.  
+Re-run the whole pipeline (1-5) for a synthetic dataset results (see the comments in notebooks).
+Visualization_separate.ipynb - visualizes continuous specificity of the data points distribution.  
+Visualization_separate.ipynb - demonstrates batch effect for merged AGP and HMP datasets.  
 
 The data is available on figshare by DOI: 10.6084/m9.figshare.19091423
